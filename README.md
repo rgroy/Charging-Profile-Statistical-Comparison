@@ -39,3 +39,15 @@ Future Work
 Future research could include:
 * Alternative Statistical Methods: To account for any deviations from normality and enhance the robustness of the analysis.
 * Granular Analysis: Investigating other factors affecting charging efficiency and their direct impacts on specific aspects of electrical grid performance. (Waveforms, tempature, area, etc.)
+
+Author
+---
+* Rishi Guharoy of Chantilly Highschool
+
+Credits
+---
+* Mihir Kulshreshtha (Helping during the process)
+
+Citation for Dataset
+---
+Ziyat, Isla; Gola, Alia; Palmer, Patrick; Makonin, Stephen; Popowich, Fred, 2023, "EV-CPW: EV Charging Profiles and Waveforms", https://doi.org/10.7910/DVN/F81CXW, Harvard Dataverse, V1, UNF:6:5rKfaXacXvSFb7cTbE8a/g== [fileUNF]
