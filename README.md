@@ -12,8 +12,8 @@ The analysis is conducted using a Jupyter Notebook, where data from an Excel fil
 Key Features
 ---
 * Data Sources: Utilizes real-world charging data for the Mitsubishi Outlander and BMW iXDrive 50. - Obtained from Dataverse Harvard
-* Analysis: Normality checks using the Shapiro-Wilk test, variance tests using Levene's test, and a two-sample t-test to compare efficiency ratios.
-* Tools: Analysis performed using Python and Jupyter Notebook.
+* Analysis: Normality checks using the Shapiro-Wilk test, variance tests using Levene's test, and a two-sample t-test to compare efficiency ratios. This file is distribution_analysis.ibynb.
+* Tools: Analysis performed using Python and Jupyter Notebook. Used Excel to format data and filter data.
 
 Methodology
 ---
