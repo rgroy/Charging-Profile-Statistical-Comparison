@@ -3,11 +3,11 @@ Analyzing Charging Efficiency Ratios of Electric Vehicles
 
 Project Description
 ---
-* This project aims to analyze and compare the charging efficiency ratios of two different electric vehicles, the Mitsubishi Outlander and the BMW iXDrive 50, using real-world charging data (chose these two cars as they are on opposite sides of the spectrum in terms of cost). 
+This project aims to analyze and compare the charging efficiency ratios of two different electric vehicles, the Mitsubishi Outlander and the BMW iXDrive 50, using real-world charging data (chose these two cars as they are on opposite sides of the spectrum in terms of cost). 
 
-* The goal is to determine if there is a statistically significant difference in their efficiency ratios and to provide insights into their performance on electrical distribution networks.
+The goal is to determine if there is a statistically significant difference in their efficiency ratios and to provide insights into their performance on electrical distribution networks.
 
-* The analysis is conducted using a Jupyter Notebook, where data from an Excel file is loaded and pre-processed for statistical analysis. Normality checks, variance tests, and a two-sample t-test are performed to ensure the reliability of the comparisons and to identify significant differences.
+The analysis is conducted using a Jupyter Notebook, where data from an Excel file is loaded and pre-processed for statistical analysis. Normality checks, variance tests, and a two-sample t-test are performed to ensure the reliability of the comparisons and to identify significant differences.
 
 Key Features
 ---
