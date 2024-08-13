@@ -31,6 +31,18 @@ Findings
 t-statistic and p-value calculated to determine the significance of differences.
 4. Visualization of the t-distribution with the test statistic.
 
+Mitsubishi Outlander Box Plot Graph:
+
+![Mitsubishi Box Plot Graph](mitsubishiboxplot.png)
+
+As you can see, the charging efficiency was not consistent.
+
+BMW iX Drive 50 Box Plot Graph:
+
+![BMW Box Plot Graph](bmwboxplot.png)
+
+The BMW graph is much more consistent and has a higher efficiency ratio than the Mitsubishi.
+
 **The study provides a detailed comparison of the charging efficiency ratios between the Mitsubishi Outlander and BMW iXDrive 50. By using rigorous statistical tests, the analysis offers insights into whether there are significant differences in their charging efficiencies, which can contribute to understanding how more expensive vs less expensive electric vehicles can consume electricity more efficiently.**
 
 Future Work
